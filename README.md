@@ -12,4 +12,4 @@
 
 ## 📫 Contacto
 - Email: **veronicalopezmarsico@gmail.com**  
-- LinkedIn: [linkedin.com/in/verolopezmar](https://www.linkedin.com/in/verolopezmar/)
+- LinkedIn: [linkedin.com/in/verolopezmar](linkedin.com/in/verolopmar)
