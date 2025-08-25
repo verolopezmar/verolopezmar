@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! Soy Verónica Ana López Marsico 👋
 
-<!--
-**verolopezmar/verolopezmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Lic. en Ciencia de Datos (UCA)  
+💻 Python · SQL · R · Matlab · Prolog · Power BI · Machine Learning  
+📊 Intereses: NLP · IA aplicada a salud · Cloud Computing  
 
-Here are some ideas to get you started:
+## 🚀 Proyectos Destacados
+- [NutriBot](https://github.com/verolopezmar/nutribot) — Chatbot experto en nutrición (Python + Prolog)
+- [NLP Project](https://github.com/verolopezmar/nlp-project) — Clasificación de sentimiento con ML
+- [Power BI Dashboards](https://github.com/verolopezmar/powerbi-dashboards) — KPIs interactivos en Power BI
+- [Papers & Conferencias](https://github.com/verolopezmar/papers-ekde) — Publicaciones académicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contacto
+- Email: **veronicalopezmarsico@gmail.com**  
+- LinkedIn: [linkedin.com/in/verolopezmar](https://www.linkedin.com/in/verolopezmar/)
